@@ -1,4 +1,8 @@
 
 # Causality and Experiments
 
-An observational study is one in which scientists make conclusions based on data that they have observed but had no hand in generating. In data science, many such studies involve observations on a group of individuals, a factor of interest called a treatment, and an outcome measured on each individual.
+An observational study is one in which scientists make conclusions based on data that they have observed but had no hand in generating. 
+In data science, many such studies involve observations on a group of individuals, a factor of interest called a treatment, 
+and an outcome measured on each individual.
+
+
